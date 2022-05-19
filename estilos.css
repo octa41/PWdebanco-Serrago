@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
 header{
     height: 100px;
     width: 100%;
@@ -37,13 +41,17 @@ li{
     margin-top: 20px;
 }
 
+ul a:hover{
+    color: blue;
+}
+
 a{
     text-decoration: none;
 }
 
 main{
     padding-top: 80px;
-    background-color: beige;
+    background-color: white;
 }
 
 .contenedorimagen1{
@@ -67,9 +75,6 @@ i{
 }
 
 .contenedor1{
-    padding-right: 80px;
-}
-.contenedor2{
     padding-right: 80px;
 }
 
@@ -144,10 +149,56 @@ footer{
     background-color: blue;
     color: white;
     text-align: center;
-    padding-top: 40px;
+    padding-top: 10px;
 }
 
 .redes{
     padding-top: 15px;
     word-spacing: 20px;
+}
+
+
+/*Transformaciones, transiciones y animaciones*/
+
+.animate__fadeInLeftBig{
+    animation-duration: 1s;
+}
+
+.animate__backInUp{
+    animation-delay: 3s;
+    animation-duration: 0.5s;
+}
+
+.item1:hover{
+    transform: scale(1.10);
+    transition: 1s;
+}
+
+.item2:hover{
+    transform: scale(1.10);
+    transition: 1s;
+}
+
+.contenedor1:hover{
+    transform: scale(1.15);
+    transition: 1s;
+}
+
+.contenedor3:hover{
+    transform: scale(1.15);
+    transition: 1s;
+}
+
+.contenedor4:hover{
+    transform: scale(1.15);
+    transition: 1s;
+}
+
+.contenedor5:hover{
+    transform: scale(1.15);
+    transition: 1s;
+}
+
+.animate__animated{
+    transition: 2s;
 }
