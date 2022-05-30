@@ -54,10 +54,6 @@ main{
     background-color: white;
 }
 
-.contenedorimagen1{
-    padding-left: 38%;
-}
-
 .contenedores{
     text-align: center;
     margin-top: 80px;
@@ -96,7 +92,6 @@ i{
 
 .fotocliente{
     padding-top: 40px;
-    padding-left: 39%;
 }
 
 img{
