@@ -132,7 +132,28 @@ footer{
     word-spacing: 20px;
 }
 
+/**pagina tarjetas**/
 
+/* carousel fully responsive 
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+*/
+
+.carousel{
+    text-align: center;
+}
+
+.carousel-caption{
+    color: black;
+    margin-top: 50px;
+}
+
+.articletarjetas{
+    padding-top: 150px;
+    text-align: center;
+}
 /*Transformaciones, transiciones y animaciones*/
 
 .animate__fadeInLeftBig{
