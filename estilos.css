@@ -74,19 +74,6 @@ i{
     color: grey;
 }
 
-.contenedor1{
-    padding-right: 80px;
-}
-
-.contenedor3{
-    padding-right: 80px;
-}
-
-.contenedor4{
-    padding-right: 80px;
-}
-
-
 .contenedorgrid{
     display: grid;
     grid-column: repeat(6, 1fr);
@@ -133,6 +120,7 @@ img{
 section{
     background-color: gray;
     padding-bottom: 30px;
+    width: 100%;
 }
 .ubicacion{
     width: 70%;
@@ -150,6 +138,7 @@ footer{
     color: white;
     text-align: center;
     padding-top: 10px;
+    width: 100%;
 }
 
 .redes{
