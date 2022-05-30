@@ -160,17 +160,49 @@ footer{
 
 .articleprestamos{
     margin-bottom: 50px;
+    text-align: center;
 }
 #cerdito{
     font-size: 50px;
+    color: rgba(242, 123, 112, 0.87);
 }
 
 #billetera{
     font-size: 50px;
+    color: burlywood;
 }
 
 #guita{
     font-size: 50px;
+    color: green;
+}
+
+
+/**pagina inversiones**/
+
+.articleinversiones{
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+#vault{
+    font-size: 50px;
+    color: #000;
+}
+
+#dollar{
+    font-size: 50px;
+    color: rgb(22, 172, 165);
+}
+
+#recipe{
+    font-size: 50px;
+    color: blue;
+}
+
+#holding{
+    font-size: 50px;
+    color: rebeccapurple;
 }
 
 
