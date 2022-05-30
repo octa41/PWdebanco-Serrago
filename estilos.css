@@ -154,6 +154,32 @@ footer{
     padding-top: 150px;
     text-align: center;
 }
+
+/**pagina prestamos**/
+
+
+.articleprestamos{
+    margin-bottom: 50px;
+}
+#cerdito{
+    font-size: 50px;
+}
+
+#billetera{
+    font-size: 50px;
+}
+
+#guita{
+    font-size: 50px;
+}
+
+
+
+
+
+
+
+
 /*Transformaciones, transiciones y animaciones*/
 
 .animate__fadeInLeftBig{
