@@ -132,14 +132,23 @@ footer{
     word-spacing: 20px;
 }
 
-/**pagina tarjetas**/
+.home{
+    height: 40px;
+    width: 60px;
+    color: white;
+    font-size: 15px;
+    background-color: red;
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    text-align: center;
+    text-decoration: none;
+    line-height: 30px;
+    border-radius: 50%;
+    border: solid #000;
+}
 
-/* carousel fully responsive 
-.carousel-inner img {
-    width: 100%;
-    height: 100%;
-  }
-*/
+/**pagina tarjetas**/
 
 .carousel{
     text-align: center;
@@ -153,6 +162,10 @@ footer{
 .articletarjetas{
     padding-top: 150px;
     text-align: center;
+}
+
+.tarj{
+    font-family: 'Archivo Black', sans-serif;
 }
 
 /**pagina prestamos**/
