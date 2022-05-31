@@ -89,15 +89,10 @@ img{
     border-radius: 5px;
 }
 
-.textodecliente{
-    text-align: center;
-    padding-top: 20px;
-}
-
 #textitocliente{
+    padding-top: 20px;
     text-align: center;
 }
-
 section{
     background-color: gray;
     padding-bottom: 30px;
